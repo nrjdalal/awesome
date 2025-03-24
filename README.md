@@ -46,13 +46,14 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 |------|-------------|------|
 | `next-js-starter by Davey Plate` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query | [Link](https://github.com/daveyplate/better-auth-nextjs-starter) |
 | `tanstack-starter by Davey Plate` | Better Auth TanStack starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query | [Link](https://github.com/daveyplate/better-auth-tanstack-starter) |
+| `next-js-starter by Yared Yilema` | A feature rich Next.js starter template | [Link](https://github.com/yaredow/next-starter) |
+| `better-auth-react-router-cloudflare-d1` | Example of Better Auth integrated with React Router (v7) which is setup to deploy to Cloudflare & use D1 for the database | [Link](https://github.com/matthewlynch/better-auth-react-router-cloudflare-d1) |
 | `supastarter` | The scalable and production-ready Next.js SaaS starter kit | [Link](https://github.com/supabase/supastarter) |
 | `boring-template` | Not your average SaaS boilerplate | [Link](https://www.boringtemplate.com/) |
+| `pro-stack` | Ship your startup in minutes with ProStack| [Link](https://pro-stack.vercel.app/) |
 | `create-better-t-stack` | A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations | [Link](https://github.com/better-t-stack/create-better-t-stack) |
 | `next-js-pages-starter by Davey Plate` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query | [Link](https://github.com/daveyplate/better-auth-nextjs-pages-starter) |
 | `railway-template` | Better Auth Railway template | [Link](https://railway.com/template/VOQsdL) |
-| `next-js-starter by Yared Yilema` | A feature rich Next.js starter template | [Link](https://github.com/yaredow/next-starter) |
-| `better-auth-react-router-cloudflare-d1` | Example of Better Auth integrated with React Router (v7) which is setup to deploy to Cloudflare & use D1 for the database | [Link](https://github.com/matthewlynch/better-auth-react-router-cloudflare-d1) |
 
 ## UI
 
