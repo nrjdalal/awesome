@@ -29,7 +29,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `seed` | Seed your Better-Auth database with deterministic, yet realistic, fake data to populate your database | [Link](https://www.better-auth-kit.com/docs/cli/seed) |
 | `polar` | A Better Auth plugin for integrating Polar payments and subscriptions into your authentication flow | [Link](https://docs.polar.sh/integrate/sdk/adapters/better-auth) |
 
-## Projects (Open Source, <1k stars)
+## Projects (Open Source, >1k stars)
 
 | Name | Description | Link |
 |------|-------------|------|
