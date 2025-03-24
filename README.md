@@ -59,3 +59,13 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | Name | Description | Link |
 |------|-------------|------|
 | `better-auth-ui by Davey Plate` | Plug & play shadcn/ui auth components for better-auth | [Link](https://github.com/daveyplate/better-auth-ui) |
+
+
+## Contributing
+
+Open a PR to add to the list.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
